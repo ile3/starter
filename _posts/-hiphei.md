@@ -3,12 +3,18 @@ layout: blog
 category: blog
 published: true
 title: Hiphei
+tags: 
+  - apples
+  - bananas
 ---
 
 ## A New Post
+
+> sdfgsdfg
+
+dsfgsdf
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
 ![10277163144_d77aca5041_c.jpg](/media/10277163144_d77aca5041_c.jpg)
-
